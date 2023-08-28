@@ -25,7 +25,8 @@
 <div align=center><img width="450" height="350" src="https://github.com/zzpspierman123/Digital_frequency_Scanner/assets/104633510/1a9eaf0d-c33f-407b-a16c-fb55e0d613fb"/></div>
 
 **成品展示：** 
-<div align=center><img width="300" height="500" src="https://github.com/zzpspierman123/Digital_frequency_Scanner/assets/104633510/84dbedc5-425b-4aef-8f29-7d41e82ee0b6"/></div>
+
+<div align=center><img width="500" height="300" src="https://github.com/zzpspierman123/Digital_frequency_Scanner/assets/104633510/4d132d7b-e3b5-4a7a-b8d1-481bc23a9de9"/></div>
 
 ## 🛠Usage
 ***DDS.zip：*** 该文件含有FPGA作为主控的Quartus13代码。
